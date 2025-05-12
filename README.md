@@ -1,6 +1,6 @@
 # module10_assignment
 
-A new Flutter project.
+A new Flutter project where I design the home page UI according to the requirements. 
 
 ## Getting Started
 
